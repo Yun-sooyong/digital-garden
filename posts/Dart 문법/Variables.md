@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 >Dart 에서는 관습적으로 함수, 메서드에서는 var, class에서는 타입을 명시
 
 
@@ -84,4 +82,3 @@ late const password = '*****'; // late와 const를 같이 사용할 수 없음
 // const = 앱이 실행되기 전 부터 정해져있는/알고있는 값
 // final = 컴파일 이후에 입력되는/받아오는 값 
 ```
-
