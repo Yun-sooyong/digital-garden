@@ -1,3 +1,7 @@
+---
+title: class
+dg-publish: true
+---
 
 
 > Dart는 대부분 class로 이루어져있고, 그만큼 class가 많이 사용됨
